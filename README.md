@@ -1,68 +1,54 @@
-<div align="center">
-  <img src="https://github.com/tuusuario/tuusuario/blob/main/header-gradient.png?raw=true" alt="Header" width="100%"/>
-  <br><br>
-  
-  # 👨‍💻 José Hurtado
-  **Backend apasionado por programación reactiva, Web3 (blockchain) y speaker en DevFest de GDG**
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=dark&hide_border=true" width="48%"/>
-</div>
+# 👋 Hola, soy José Hurtado
 
-<br>
+**Backend apasionado por programación reactiva, Web3 (blockchain) y speaker con experiencia en DevFest de GDG**
 
-## 🛠️ Mi Stack
-<div align="center">
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![Web3](https://img.shields.io/badge/Web3-FF6B35?style=for-the-badge&logo=blockchain&logoColor=white)
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu_linkedin)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](tu_youtube)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_email)
 
-## 📋 Sobre mí
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <ul>
-          <li>🎓 Ingeniería de Sistemas – UTP (Perú)</li>
-          <li>💻 Backend: Java, <strong>.NET</strong>, Spring Boot</li>
-          <li>⚡ Programación reactiva (Spring WebFlux)</li>
-          <li>🤖 IA práctica: LLMs vía APIs</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <ul>
-          <li>🌐 Frontend: Angular, Flutter</li>
-          <li>⛓️ Web3/Blockchain: Smart Contracts</li>
-          <li>🎤 Speaker: DevFest Ica & Chimbote</li>
-          <li>🏆 START Hack 2026 (Suiza)</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+## 👨‍💻 Sobre mí
+**Ingeniero de Sistemas en formación** con experiencia creando soluciones tecnológicas que conectan backend con innovación digital. Especializado en diseñar arquitecturas escalables y transformar código en impacto real para el negocio.
 
-## 🚀 En este momento
-- 👨‍💼 Liderando eventos tech en **LEAD UTP**
-- 🇨🇭 Preparándome para **START Hack 2026**
-- 🔄 Proyectos: Backend reactivo + IA + Docker + Web3
+**"La programación reactiva es el futuro de los sistemas escalables."**
 
-## 📫 Conéctate
-<div align="center">
-  <a href="tu_linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tu_email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/tuusuario">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Backend & Arquitectura
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🎨 Frontend & Mobile
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### ⛓️ Innovación
+![Web3](https://img.shields.io/badge/Web3-FF6B35?style=for-the-badge&logo=blockchain&logoColor=white)
+![Reactiva](https://img.shields.io/badge/Reactive-00D4AA?style=for-the-badge&logoColor=white)
+
+## 🏆 Certificaciones Destacadas
+| Insignia | Certificación | Entidad | Fecha |
+|----------|---------------|---------|-------|
+| 🎤 | Speaker DevFest | Google Developer Groups | 2025 |
+| 🇨🇭 | START Hack 2026 | Hackathon Internacional | 2026 |
+| 👨‍💼 | Líder LEAD UTP | Universidad Técnica Perú | 2025 |
+
+## 🌟 ¡Colaboremos!
+Estoy abierto a nuevos proyectos emocionantes en **backend reactivo**, **Web3**, **IA aplicada** o **workshops tech**.
+
+**GitHub Octocat**
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=tuusuario&theme=dark&hide_border=false)
+
+![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tuusuario&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=tuusuario&theme=radical&no-frame=true&no-bg=true)
+
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views"/>
+  ![Visitors](https://komarev.com/ghpvc/?username=tuusuario&color=brightgreen&style=flat-square)
 </div>
