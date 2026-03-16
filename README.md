@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola 👋 Soy Jose Hurtado
 
-<!--
-**JoshRivas313/JoshRivas313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer  
+⚡ Java | Spring Boot | Angular  
+🔗 Interesado en Blockchain y WebFlux  
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Java
+- Spring Boot
+- Angular
+- Docker
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos
+- 🔗 Sistema Blockchain con Spring Boot
+- 🔗 Proyecto DevFest 2025
