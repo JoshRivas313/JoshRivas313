@@ -36,7 +36,6 @@
 |-------|--------------|-----|
 | 🎤 Speaker en DevFest | Google Developer Groups | 2025 |
 | 🇨🇭 Clasificado a START Hack | Suiza | 2026 |
-| 👨‍💼 Líder de comunidad LEAD UTP | UTP | 2025 |
 
 
 
