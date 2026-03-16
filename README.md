@@ -22,27 +22,20 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 
 ### ⛓️ Innovación
 ![Web3](https://img.shields.io/badge/Web3-FF6B35?style=for-the-badge&logo=blockchain&logoColor=white)
 ![Reactiva](https://img.shields.io/badge/Reactive-00D4AA?style=for-the-badge&logoColor=white)
 
-## 🏆 Certificaciones Destacadas
+## 🏆 Datos Destacadas
 | Insignia | Certificación | Entidad | Fecha |
 |----------|---------------|---------|-------|
 | 🎤 | Speaker DevFest | Google Developer Groups | 2025 |
 | 🇨🇭 | START Hack 2026 | Hackathon Internacional | 2026 |
 | 👨‍💼 | Líder LEAD UTP | Universidad Técnica Perú | 2025 |
 
-## 🌟 ¡Colaboremos!
-Estoy abierto a nuevos proyectos emocionantes en **backend reactivo**, **Web3**, **IA aplicada** o **workshops tech**.
-
-**GitHub Octocat**
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=tuusuario&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tuusuario&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=tuusuario&theme=radical&no-frame=true&no-bg=true)
 
 
