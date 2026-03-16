@@ -3,7 +3,6 @@
 **Backend apasionado por programación reactiva, Web3 (blockchain) y speaker con experiencia en DevFest de GDG**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu_linkedin)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](tu_youtube)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_email)
 
 ## 👨‍💻 Sobre mí
@@ -23,8 +22,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ### ⛓️ Innovación
 ![Web3](https://img.shields.io/badge/Web3-FF6B35?style=for-the-badge&logo=blockchain&logoColor=white)
@@ -47,8 +45,4 @@ Estoy abierto a nuevos proyectos emocionantes en **backend reactivo**, **Web3**,
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=tuusuario&theme=radical&no-frame=true&no-bg=true)
 
----
 
-<div align="center">
-  ![Visitors](https://komarev.com/ghpvc/?username=tuusuario&color=brightgreen&style=flat-square)
-</div>
