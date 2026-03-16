@@ -8,7 +8,8 @@
 ## 👨‍💻 Sobre mí
 **Ingeniero de Sistemas en formación** con experiencia creando soluciones tecnológicas que conectan backend con innovación digital. Especializado en diseñar arquitecturas escalables y transformar código en impacto real para el negocio.
 
-**"La programación reactiva es el futuro de los sistemas escalables."**
+"En cada proyecto: **Se gana o se aprende** – José Hurtado"
+
 
 ## 🛠️ Tecnologías y Herramientas
 
@@ -30,12 +31,12 @@
 ![Web3](https://img.shields.io/badge/Web3-FF6B35?style=for-the-badge&logo=blockchain&logoColor=white)
 ![Reactiva](https://img.shields.io/badge/Reactive-00D4AA?style=for-the-badge&logoColor=white)
 
-## 🏆 Datos Destacadas
-| Insignia | Certificación | Entidad | Fecha |
-|----------|---------------|---------|-------|
-| 🎤 | Speaker DevFest | Google Developer Groups | 2025 |
-| 🇨🇭 | START Hack 2026 | Hackathon Internacional | 2026 |
-| 👨‍💼 | Líder LEAD UTP | Universidad Técnica Perú | 2025 |
+## 🏆 Logros Destacados
+| Logro | Organización | Año |
+|-------|--------------|-----|
+| 🎤 Speaker en DevFest | Google Developer Groups | 2025 |
+| 🇨🇭 Clasificado a START Hack | Suiza | 2026 |
+| 👨‍💼 Líder de comunidad LEAD UTP | UTP | 2025 |
 
 
 
